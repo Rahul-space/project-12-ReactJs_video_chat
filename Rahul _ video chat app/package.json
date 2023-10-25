@@ -1,7 +1,7 @@
 {
-	"name": "videochat",
+	"name": "Rahul_video_chatApp",
 	"version": "1.0.0",
-	"description": "",
+	"description": "using React js and mongo db",
 	"main": "index.js",
 	"scripts": {
 		"start": "node index.js",
